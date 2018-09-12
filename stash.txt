@@ -1,0 +1,28 @@
+Stash é uma área, onde é possível armazernar código, sem a necessidade de realizar um commit, permitindo mudar de branch ou realizar outras operação de forma organizada. 
+
+
+Desistir da alteração e não quer perder 
+No git pode usar o stash pode armazenar o arquivo 
+
+git stash save "nome do arquivo"
+Limpa o working --- manda pro stash 
+
+para buscar de novo
+do stash e mostrar no working area
+git stash apply stash@{0}
+
+
+Comandos:
+
+stash save
+stash apply
+stash list
+stash drop
+stash pop
+checkout 
+add
+status
+----------
+commit
+push
+merge
